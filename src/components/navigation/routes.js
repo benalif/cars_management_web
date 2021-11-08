@@ -8,7 +8,7 @@ import { Home } from "components/pages";
 
 export const Routes = () => {
   return (
-    <Router>
+    <Router basename="cars_management_web">
       <Switch>
         <Route exact path="/home" element={<Home />} />
         <Route exact path="*" element={<Home />} />
