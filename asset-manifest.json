@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cars_management_web/static/css/main.451259fb.chunk.css",
-    "main.js": "/cars_management_web/static/js/main.93c758b2.chunk.js",
-    "main.js.map": "/cars_management_web/static/js/main.93c758b2.chunk.js.map",
+    "main.js": "/cars_management_web/static/js/main.57f81141.chunk.js",
+    "main.js.map": "/cars_management_web/static/js/main.57f81141.chunk.js.map",
     "runtime-main.js": "/cars_management_web/static/js/runtime-main.b3154af4.js",
     "runtime-main.js.map": "/cars_management_web/static/js/runtime-main.b3154af4.js.map",
     "static/css/2.0cb4618d.chunk.css": "/cars_management_web/static/css/2.0cb4618d.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.0cb4618d.chunk.css",
     "static/js/2.8c00cb56.chunk.js",
     "static/css/main.451259fb.chunk.css",
-    "static/js/main.93c758b2.chunk.js"
+    "static/js/main.57f81141.chunk.js"
   ]
 }
