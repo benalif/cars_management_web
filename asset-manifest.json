@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/cars_management_web/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/cars_management_web/static/js/main.1ee08816.chunk.js",
-    "main.js.map": "/cars_management_web/static/js/main.1ee08816.chunk.js.map",
-    "runtime-main.js": "/cars_management_web/static/js/runtime-main.5f3dbf11.js",
-    "runtime-main.js.map": "/cars_management_web/static/js/runtime-main.5f3dbf11.js.map",
-    "static/js/2.f48d285a.chunk.js": "/cars_management_web/static/js/2.f48d285a.chunk.js",
-    "static/js/2.f48d285a.chunk.js.map": "/cars_management_web/static/js/2.f48d285a.chunk.js.map",
-    "static/js/3.bed7d44c.chunk.js": "/cars_management_web/static/js/3.bed7d44c.chunk.js",
-    "static/js/3.bed7d44c.chunk.js.map": "/cars_management_web/static/js/3.bed7d44c.chunk.js.map",
+    "main.css": "/cars_management_web/static/css/main.451259fb.chunk.css",
+    "main.js": "/cars_management_web/static/js/main.93c758b2.chunk.js",
+    "main.js.map": "/cars_management_web/static/js/main.93c758b2.chunk.js.map",
+    "runtime-main.js": "/cars_management_web/static/js/runtime-main.b3154af4.js",
+    "runtime-main.js.map": "/cars_management_web/static/js/runtime-main.b3154af4.js.map",
+    "static/css/2.0cb4618d.chunk.css": "/cars_management_web/static/css/2.0cb4618d.chunk.css",
+    "static/js/2.8c00cb56.chunk.js": "/cars_management_web/static/js/2.8c00cb56.chunk.js",
+    "static/js/2.8c00cb56.chunk.js.map": "/cars_management_web/static/js/2.8c00cb56.chunk.js.map",
+    "static/js/3.02695eea.chunk.js": "/cars_management_web/static/js/3.02695eea.chunk.js",
+    "static/js/3.02695eea.chunk.js.map": "/cars_management_web/static/js/3.02695eea.chunk.js.map",
     "index.html": "/cars_management_web/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/cars_management_web/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.f48d285a.chunk.js.LICENSE.txt": "/cars_management_web/static/js/2.f48d285a.chunk.js.LICENSE.txt"
+    "static/css/2.0cb4618d.chunk.css.map": "/cars_management_web/static/css/2.0cb4618d.chunk.css.map",
+    "static/css/main.451259fb.chunk.css.map": "/cars_management_web/static/css/main.451259fb.chunk.css.map",
+    "static/js/2.8c00cb56.chunk.js.LICENSE.txt": "/cars_management_web/static/js/2.8c00cb56.chunk.js.LICENSE.txt",
+    "static/media/primeicons.css": "/cars_management_web/static/media/primeicons.c6e20533.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f3dbf11.js",
-    "static/js/2.f48d285a.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.1ee08816.chunk.js"
+    "static/js/runtime-main.b3154af4.js",
+    "static/css/2.0cb4618d.chunk.css",
+    "static/js/2.8c00cb56.chunk.js",
+    "static/css/main.451259fb.chunk.css",
+    "static/js/main.93c758b2.chunk.js"
   ]
 }
