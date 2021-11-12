@@ -1,0 +1,16 @@
+.p-menubar {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  border-radius: 0;
+}
+
+.p-menubar .p-submenu-list {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  right: 0;
+}

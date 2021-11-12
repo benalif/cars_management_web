@@ -4,7 +4,7 @@ import {
   Route,
   Routes as Switch,
 } from "react-router-dom";
-import { Home } from "components/pages";
+import { Home } from "components/pages/";
 
 export const Routes = () => {
   return (
